@@ -17,6 +17,8 @@ https://github.com/SandroWeber/ubii-node-master
 
 https://github.com/SandroWeber/ubii-web-frontend
 
+https://github.com/SandroWeber/ubii-node-nodejs
+
 
 https://github.com/SandroWeber/ubii-node-unity3D
 

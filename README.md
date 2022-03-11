@@ -1,9 +1,9 @@
 # Ubi-Interact
 Meta repository for the Ubi-Interact project
 
-Check out the Wiki on how to get started!
+Check out the Wiki on how to get started: https://github.com/SandroWeber/ubi-interact/wiki
 
-https://github.com/SandroWeber/ubi-interact/wiki
+Publication: https://eprints.eudl.eu/id/eprint/4817/1/eai.14-7-2021.170291.pdf
 
 
 ### Project Repositories

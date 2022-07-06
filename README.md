@@ -23,3 +23,5 @@ https://github.com/SandroWeber/ubii-node-nodejs
 https://github.com/SandroWeber/ubii-node-unity3D
 
 https://github.com/SandroWeber/ubii-node-webbrowser
+
+https://github.com/SandroWeber/ubii-node-python

@@ -1,12 +1,14 @@
 # Ubi-Interact
 Meta repository for the Ubi-Interact project
 
-Check out the Wiki on how to get started: https://github.com/SandroWeber/ubi-interact/wiki
+## Where to start
+https://github.com/SandroWeber/ubi-interact/wiki
 
-Publication: https://eprints.eudl.eu/id/eprint/4817/1/eai.14-7-2021.170291.pdf
+## Publication
+https://eprints.eudl.eu/id/eprint/4817/1/eai.14-7-2021.170291.pdf
 
 
-### Project Repositories
+## Project Repositories
 
 #### Master Node + Web Frontend
 
